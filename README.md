@@ -1,2 +1,2 @@
 # dwiki-git-test
-Repository
+Repository untuk mencoba git remote
